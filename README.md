@@ -1,4 +1,4 @@
-## Fala, galera! Meu nome é Daniel Batista!
+## Olá!:v: Meu nome é Daniel Batista.:wave:
 ## Um breve resumo sobre mim:
 
 <div>
