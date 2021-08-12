@@ -36,11 +36,6 @@
  
  <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/danielbped/count.svg" />
- </p>
- 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
  </p>
 
