@@ -6,9 +6,12 @@
     * Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, que possui quatro módulos: 
       * Fundamentos do Desenvolvimento Web ✔️
       * Front end ⬅️
+      ```
+      Atualmente, meu maior interesse é em Desenvolvimento Front end,
+      tendo em vista que foi uma área que eu gostei bastante
+      ```
       * Back end
       * Ciência da computação
-    * Atualmente, meu maior interesse é em Desenvolvimento Front end, tendo em vista que foi uma área que eu gostei bastante
  * :robot: Formado em Engenharia Mecatrônica
  * :mortar_board: Pós-graduando em Gestão de projetos
 
