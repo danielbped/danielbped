@@ -1,10 +1,11 @@
 ## Olá!:v: Meu nome é Daniel Batista.:wave:
 ## Um breve resumo sobre mim:
 
+ * Sou de Maceió/AL 🏖️
  * :computer: Estudante de Desenvolvimento Web
     * Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, que possui quatro módulos: 
       * Fundamentos do Desenvolvimento Web ✔️
-      * Front end
+      * Front end ⬅️
       * Back end
       * Ciência da computação
     * Atualmente, meu maior interesse é em Desenvolvimento Front end, tendo em vista que foi uma área que eu gostei bastante
@@ -27,6 +28,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
   
   ## Contato
