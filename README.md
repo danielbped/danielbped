@@ -1,20 +1,33 @@
 ## Olá!:v: Meu nome é Daniel Batista.:wave:
 ## Um breve resumo sobre mim:
 
- * Sou de Maceió/AL 🏖️
- * :computer: Estudante de Desenvolvimento Web
-    * Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, que possui quatro módulos: 
-      * Fundamentos do Desenvolvimento Web ✔️
-      * Front end ⬅️ ```Atualmente, meu maior interesse```
-      * Back end
-      * Ciência da computação
- * :robot: Formado em Engenharia Mecatrônica
- * :mortar_board: Pós-graduando em Gestão de projetos
+<img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
+
+<div>
+   <ul>
+    <li>Sou de <strong>Maceió/AL</strong> 🏖️
+    <li>Estudante de <strong>Desenvolvimento Web</strong> :computer:
+       <ul>
+          <li>Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, <br>que possui <strong>quatro módulos</strong>:</li>
+            <ul>
+               <li>Fundamentos do Desenvolvimento Web ✔️</li>
+               <li>Front end ⬅️</li>
+               <ul>
+                  <li><strong>Principal área de interesse</strong></li>
+               </ul>
+               <li>Back end</li>
+               <li>Ciência da computação</li>
+            </ul>
+       </ul>   
+    <li>Formado em <strong>Engenharia Mecatrônica</strong> :robot:
+    <li>Pós-graduando em <strong>Gestão de projetos</strong> :mortar_board:
+   </ul>
+</div>
 
  <div>
   <a href="https://github.com/danielbped">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielbped&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbped&layout=compact&langs_count=16&theme=react"/>
+  <img height="180em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbped&layout=compact&langs_count=16&theme=react"/>
 </div>
  
  ## Skills
