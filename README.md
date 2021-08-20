@@ -5,8 +5,7 @@
  * :computer: Estudante de Desenvolvimento Web
     * Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, que possui quatro módulos: 
       * Fundamentos do Desenvolvimento Web ✔️
-      * Front end ⬅️
-      ```Atualmente, meu maior interesse é em Desenvolvimento Front end, tendo em vista que foi uma área que eu gostei bastante```
+      * Front end ⬅️ ```Atualmente, meu maior interesse```
       * Back end
       * Ciência da computação
  * :robot: Formado em Engenharia Mecatrônica
@@ -34,8 +33,8 @@
   ## Contato
  
 <div align="center"> 
-  <a href = "mailto:danielbped@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danielbped/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:danielbped@gmail.com" target="_blank" ><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://www.linkedin.com/in/danielbped/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
  </div>
  
  <p align="center"> 
