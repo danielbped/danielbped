@@ -11,11 +11,8 @@
           <li>Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, <br>que possui <strong>quatro módulos</strong>:</li>
             <ul>
                <li>Fundamentos do Desenvolvimento Web ✔️</li>
-               <li>Front end ⬅️</li>
-               <ul>
-                  <li><strong>Principal área de interesse</strong></li>
-               </ul>
-               <li>Back end</li>
+               <li>Front end ✔️</li>
+               <li>Back end ⬅️</li>
                <li>Ciência da computação</li>
             </ul>
        </ul>   
