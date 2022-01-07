@@ -19,6 +19,12 @@
     <li>Formado em <strong>Engenharia Mecatrônica</strong> :robot:
     <li>Pós-graduando em <strong>Gestão de projetos</strong> :mortar_board:
    </ul>
+   <p>Clique 
+      <a href="https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"           target="_blank">
+         aqui
+      </a>
+      para ver o meu currículo!
+   </p>
 </div>
 
 <br><br>
