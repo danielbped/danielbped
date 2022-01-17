@@ -25,6 +25,7 @@
       </a>
       para ver o meu currículo!
    </p>
+   <p>E-mail para contato: danielbped@gmail.com</p>
 </div>
 
 <br><br>
