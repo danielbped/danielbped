@@ -12,8 +12,8 @@
             <ul>
                <li>Fundamentos do Desenvolvimento Web ✔️</li>
                <li>Front end ✔️</li>
-               <li>Back end ⬅️</li>
-               <li>Ciência da computação</li>
+               <li>Back end ✔️</li>
+               <li>Ciência da computação⬅️</li>
             </ul>
        </ul>   
     <li>Formado em <strong>Engenharia Mecatrônica</strong> :robot:
