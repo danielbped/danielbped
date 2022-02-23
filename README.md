@@ -6,6 +6,7 @@
 <div>
    <ul>
     <li>Sou de <strong>Maceió/AL</strong> 🏖️
+      <li>Desenvolvedor Fullstack Jr na <strong>Oya Care</strong></li>   
     <li>Estudante de <strong>Desenvolvimento Web</strong> :computer:
        <ul>
           <li>Estudo na Trybe, uma escola de Desenvolvimento Web Fullstack, <br>que possui <strong>quatro módulos</strong>:</li>
