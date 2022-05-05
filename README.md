@@ -20,6 +20,7 @@
    </p>
 </div>
  
+ <br><br>
  ## Skills
  
 <div align="center" style="display: inline-block"><br>  
