@@ -7,7 +7,7 @@
 <div>
    <ul>
     <li>Sou de <strong>Maceió/AL</strong> 🏖️
-      <li><strong>Desenvolvedor Fullstack Jr</strong> na <a href="https://www.oya.care/">Oya Care</a></li>   
+      <li><strong>Desenvolvedor Fullstack Jr</strong> | <a href="https://www.oya.care/">Oya Care</a></li>   
       <li>Formado em <strong>Desenvolvimento Web</strong> :computer: | <a href="https://www.betrybe.com/">Trybe</a>
       <li>Graduado em <strong>Engenharia Mecatrônica</strong> :robot: | <a href="https://www.unit.br/">Unit</a>
     <li>Pós-graduado em <strong>Gestão de projetos</strong> :mortar_board: | <a href="https://descomplica.com.br/">Faculdade Descomplica</a>
