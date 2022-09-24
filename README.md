@@ -21,28 +21,26 @@
 </div>
  
  <br><br>
- ## Skills
- 
-<div align="center" style="display: inline-block"><br>  
- <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img align="center" alt="Python" height="30" width="100" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
- <img align="center" alt="TS" height="30" width="100" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- <img align="center" alt="nodejs" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
- <img align="center" alt="nestjs" height="30" width="100" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
- <img align="center" alt="mysql" height="30" width="100" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
- <img align="center" alt="mongodb" height="30" width="100" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-   <img align="center" alt="sequelize" height="30" width="100" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-   <img align="center" alt="socket" height="30" width="100" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
-   <hr>
- <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img align="center" alt="Redux" height="30" width="100" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-   <img align="center" alt="Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img align="center" alt="HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="tailwind" height="30" width="100" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-   <img align="center" alt="styled-components" height="30" width="120" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-   <img align="center" alt="sass" height="30" width="100" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-   <img align="center" alt="material" height="30" width="100" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+
+ <h2 align="center">Skills</h2>
+
+<div align="center"><br>  
+ <img align="center" title="Javascript" href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"  alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ <img align="center" title="Typescript" href="https://www.typescriptlang.org/" alt="TS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+ <img align="center" title="Node JS" href="https://nodejs.org/en/" alt="nodejs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355">
+ <img align="center" title="React" href="https://reactjs.org/" alt="React" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207">
+ <img align="center" title="Angular" href="https://angular.io/" alt="Angular" height="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+ <img align="center" title="HTML" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+ <img align="center" title="CSS" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+ <img align="center" title="Python" href="https://www.python.org/" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+ <img align="center" title="MySQL" href="https://www.mysql.com/" alt="mysql" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+ <img align="center" title="PostgreSQL" href="https://www.postgresql.org/" alt="postgresql" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800">
+ <img align="center" title="MongoDB" href="https://www.mongodb.com/" alt="mongodb" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png?20190626143224">
+ <img align="center" title="Tailwind CSS" href="https://tailwindcss.com/" alt="tailwind" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/600px-Tailwind_CSS_Logo.svg.png?20211001194333">
+ <img align="center" title="Styled Components" href="https://styled-components.com/" alt="styled-components" height="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
+ <img align="center" title="Sass" href="https://sass-lang.com/" alt="sass" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+ <img align="center" title="Insomnia" href="https://insomnia.rest/" alt="insomnia" height="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
+ <img align="center" title="Git" href="https://git-scm.com/" alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 </div>
   
   ## Contato
@@ -50,7 +48,6 @@
 <div align="center"> 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=danielbped@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/danielbped/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-   <a href="https://www.instagram.com/danielbped/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
  </div>
  
  <p align="center"> 
