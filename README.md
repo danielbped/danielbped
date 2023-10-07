@@ -6,6 +6,7 @@
 - **Software Engineer** | [Oya Care](https://www.oya.care/)
 - Formado em **Desenvolvimento Web** :computer: | [Trybe](https://www.betrybe.com/)
 - Graduado em **Engenharia Mecatrônica** :robot: | [Unit](https://www.unit.br/)
+- Pós-graduando em **Engenharia de Software** 🎓 💻 | [FAMEESP](https://faculdademetropolitana.edu.br/)
 - Pós-graduado em **Gestão de projetos** :mortar_board: | [Faculdade Descomplica](https://descomplica.com.br/)
 
 Clique [aqui](https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) para ver o meu currículo!
