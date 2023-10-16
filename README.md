@@ -1,18 +1,18 @@
-## Olá! Meu nome é Daniel Batista :wave:
-## Um breve resumo sobre mim:
+## Hey, there! I'm Daniel :wave:
+## About me:
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
-- **Software Engineer** | [Oya Care](https://www.oya.care/)
-- Pós-graduando em **Engenharia de Software** 🎓 💻 | [FAMEESP](https://faculdademetropolitana.edu.br/)
-- Pós-graduado em **Gestão de projetos** :mortar_board: | [Faculdade Descomplica](https://descomplica.com.br/)
-- Formado em **Desenvolvimento Web** :computer: | [Trybe](https://www.betrybe.com/)
-- Graduado em **Engenharia Mecatrônica** :robot: | [Unit](https://www.unit.br/)
+- I'm a **Software Developer** at [Oya Care](https://www.oya.care/) 🐚 ❤️
+- I am specializing in **Software Engineer** at [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
+- I have a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
+- I am also a graduate in **Web Development** from [Trybe](https://www.betrybe.com/) :computer:
+- I am also a graduate in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
 
-Clique [aqui](https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) para ver o meu currículo!
+Click [here](https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to view my resume!
 
 
-### Contato
+### Contact
  
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=danielbped@gmail.com)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbped/)
