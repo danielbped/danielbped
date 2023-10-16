@@ -6,7 +6,6 @@
 - I'm a **Software Developer** at [Oya Care](https://www.oya.care/) 🐚 ❤️
 - I'm specializing in **Software Engineer** at [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
 - I have a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
-- I'm also a graduate in **Web Development** from [Trybe](https://www.betrybe.com/) :computer:
 - I'm also a graduate in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
 - I'm currently in the process of learning about Software Architecture, diving into the AWS universe, and starting to play the drums ~(oh, yeah🥁)~.
 
