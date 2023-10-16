@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Daniel Batista :wave:
 ## Um breve resumo sobre mim:
 
-<img align="right" width="276" src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif?cid=ecf05e47yiz97uakrpyqctmt33ozckgwgwqbrksxsolg5bpl&rid=giphy.gif&ct=g" />
+<img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 - **Software Engineer** | [Oya Care](https://www.oya.care/)
 - Pós-graduando em **Engenharia de Software** 🎓 💻 | [FAMEESP](https://faculdademetropolitana.edu.br/)
