@@ -9,7 +9,9 @@
 - I'm also a graduate in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
 - I'm currently in the process of learning about Software Architecture, diving into the AWS universe, and starting to play the drums ~(oh, yeah🥁)~.
 
-Click [here](https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to view my resume!
+Click [here](https://www.canva.com/design/DAFxJ4NOuKc/Caszpt7yq9SKIycWhqsBmw/edit) to view my resume!
+
+Clique [aqui](https://www.canva.com/design/DAEm51SJxHQ/mApgAoxT5nJFLt7Z7EfjRA/view?utm_content=DAEm51SJxHQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) para ver o meu currículo! 🇧🇷
 
 
 ### Contact
