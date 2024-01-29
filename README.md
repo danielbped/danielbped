@@ -3,7 +3,7 @@
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
-- I'm a **Software Developer** at [Oya Care](https://www.oya.care/) 🐚 ❤️
+- I'm a **Software Developer**
 - I'm specializing in **Software Engineer** at [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
 - I have a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
 - I'm also a graduate in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
