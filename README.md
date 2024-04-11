@@ -4,10 +4,10 @@
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 - I'm a **Software Developer**
-- I'm specializing in **Software Engineer** at [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
-- I have a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
-- I'm also a graduate in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
-- I'm currently in the process of learning about Software Architecture, diving into the AWS universe, and starting to play the drums ~(oh, yeah🥁)~.
+- I have a postgraduate degree in **Software Engineer** from [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
+- I have also a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
+- I'm graduated in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
+- and I'm currently in the process of learning about Software Architecture, diving into the AWS universe, and starting to play the drums ~(oh, yeah🥁)~.
 
 Click [here](https://www.canva.com/design/DAFxJ4NOuKc/Caszpt7yq9SKIycWhqsBmw/edit?utm_content=DAFxJ4NOuKc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) to view my resume!
 
