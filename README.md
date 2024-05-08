@@ -1,7 +1,7 @@
 ## Hey, there! I'm Daniel :wave:
 ## About me:
 
-<img align="right" width="18rem" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
+<img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
 - I'm a **Software Engineer**
 - I have a postgraduate degree in **Software Engineer** from [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
