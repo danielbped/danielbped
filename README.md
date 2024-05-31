@@ -3,7 +3,7 @@
 
 <img align="right" width="276" src="https://media.tenor.com/eFWg68USeZgAAAAd/computer-hacker-fallout.gif" />
 
-- I'm a **Software Engineer**
+- I'm a **Software Engineer** at [Pareto](https://pareto.io/)
 - I have a postgraduate degree in **Software Engineer** from [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
 - I have also a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
 - I'm graduated in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
