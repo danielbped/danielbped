@@ -7,7 +7,7 @@
 - I have a postgraduate degree in **Software Engineer** from [FAMEESP](https://faculdademetropolitana.edu.br/) 🎓 💻
 - I have also a postgraduate degree in **Project Management** from [Faculdade Descomplica](https://descomplica.com.br/) :mortar_board:
 - I'm graduated in **Mechatronic Engineering** from [Unit](https://www.unit.br/) :robot:
-- and I'm currently in the process of learning about Software Architecture, diving into the cloud universe, and learning to play the drums ~(oh, yeah🥁)~.
+- and I'm currently in the process of learning about artificial intelligence, diving into the cloud universe, and learning to play the drums ~(oh, yeah🥁)~.
 
 
 ### Contact
